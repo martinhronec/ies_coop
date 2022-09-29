@@ -1,0 +1,1 @@
+print("Hopefully not everyone does print 'hello world'")
